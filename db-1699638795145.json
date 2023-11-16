@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:47:32 AM",
+      "body": "Joined BCAS for my Higher education"
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "March 12, 2019 09:47:32 AM",
+      "body": "This was my birthday, the day i thought i would be happy if i grow older"
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "datetime": "August 23, 2022 11:47:32 AM",
+      "body": "Couldn't remember but something has happened"
+    },
+    {
+      "id": 4,
+      "title": "Fourth post",
+      "datetime": "January 03, 2016 01:47:32 AM",
+      "body": "Life was really good, where i had no woorries about anything"
+    }
+  ]
+}
